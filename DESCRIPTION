@@ -1,9 +1,9 @@
 Package: matrixcalc
-Version: 1.0-4
-Date: 2021-05-26
+Version: 1.0-5
+Date: 2021-05-27
 Title: Collection of Functions for Matrix Calculations
 Author: Frederick Novomestky <fnovomes@poly.edu>
-Maintainer: S. Thomas Kelly <tom.kelly@riken.jp>
+Maintainer: S. Thomas Kelly <tomkellygenetics@gmail.com>
 Depends: R (>= 2.0.1)
 Description: A collection of functions to support matrix calculations
         for probability, econometric and numerical analysis. There are
